@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tomás Liñan or as my username says @Tomas-Li (at least for github). I'm an mechanical aeronautical engineer from Argentina that enjoys programming and solving problems :)
-- 👀 I’m interested in learning new things! I always have time to learn something new that seems interesting (and being honest, is actually really easy to catch my interest LOL)
-- 🌱 I’m currently learning and practicing new python libraries that can help me automatize (or at least ease) things that I usually do
+- 👋 Hi, I’m Tomás Liñan. I'm a aeronautical engineer from Argentina that enjoys programming and learning new things :)
+- 👀 I’m interested whatever that can catch my attention! I always have time to learn something new.
+- 🌱 I’m currently learning and practicing new python libraries, and my React skills as this is the last technology I have learned
 - 💞️ I’m looking to collaborate on projects that seems intresting and that can help me learn new things.
 - 📫 How to reach me: tomas.m.l.001@gmail.com ; start the topic with [github]
 
