@@ -1,12 +1,23 @@
+## About Me
 - 👋 Hi, I’m Tomás Liñan. I'm a aeronautical engineer from Argentina that enjoys programming and learning new things :)
-- 👀 I’m interested whatever that can catch my attention! I always have time to learn something new.
-- 🌱 I’m currently learning and practicing new python libraries, and my React skills as this is the last technology I have learned
-- 💞️ I’m looking to collaborate on projects that seems intresting and that can help me learn new things.
+## Interests
+- 👀 I’m interested in anything that can catch my attention! I always have time to learn something new that looks interesting!
+## Collaboration
+- 💞️ I’m looking to collaborate on projects that seems interesting and that can help me learn new things.
+## Contact
 - 📫 How to reach me: tomas.m.l.001@gmail.com
+## Background
+Programming has been my hobby for over a decade. My journey began in high school, but it truly took off after my first Numerical Analysis class, where I witnessed first hand the endless posibilities of computing and the deep understanding it entails.
 
--I have been programming for many years at this point. I have done many courses like "build 10 Real-World program" for python, +100hours courses for Java, CoderHouse front-end courses, FreeCodeCamp courses (from their mainpage and their Youtube channel), many practical projects throughout the internet (mainly from Youtube or challenges from forums that seemed interesting). After saying all that, you may be thinking that I don't have that many projects ... but that's because I'm dumb, and never bothered uploading them because I always thought of them as personal practices or personal projects that would only be of interest for me. Now is kinda hard to go and check 5 years old code, that I don't remember that much about, and decide if it's worth for a place in my Github or not. At this point I decided to just make new and more advanced projects with my new knowledge (even thought that means I don't have that many at the moment).
+Throughout my university years, I spent most of my free time doing multiple courses. One of my favorites was "Build 10 Real-World program", a course for python in Udemy that keeps getting updated every once in a while! (highly recommended). To name a few other courses: 
+- +100 hours of Java courses.
+- CoderHouse's front-end and back-end courses.
+- Multiple courses from FreeCodeCamp, from their mainpage and their Youtube channel.
+- Many practical projects throughout the internet, mainly from Youtube or challenges from forums that seemed interesting.
 
-On another point, I will upload my thesis (which is a multi-physics problem solver based on FEM and programmed on C++) once I get the perms to publish the code from my University.
+If you're wondering why I don't have more repositories up, it’s because I never imagined I would work in this field; it was always a hobby for me. Therefore, I never uploaded my personal projects. Currently, I’m focusing on creating new and more advanced projects that reflect my growth.
+
+<s>On another point, I will upload my thesis, which is a multi-physics problem solver based on FEM programmed in C++, once I get the perms to publish the code from my University.</s> (didn't get them, my university asked to keep the code and keep working on it)
 
 <!---
 Tomas-Li/Tomas-Li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
