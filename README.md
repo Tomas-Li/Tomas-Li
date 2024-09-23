@@ -17,7 +17,13 @@ Throughout my university years, I spent most of my free time doing multiple cour
 
 If you're wondering why I don't have more repositories up, it’s because I never imagined I would work in this field; it was always a hobby for me. Therefore, I never uploaded my personal projects. Currently, I’m focusing on creating new and more advanced projects that reflect my growth.
 
-<s>On another point, I will upload my thesis, which is a multi-physics problem solver based on FEM programmed in C++, once I get the perms to publish the code from my University.</s> (didn't get them, my university asked to keep the code and keep working on it)
+<s> I plan to eventually upload my thesis, which is a multi-physics problem solver based on FEM programmed in C++, once I get the perms to publish the code from my University.</s> (didn't get them, my university asked to keep the code and keep working on it)
+
+## Things I have worked with:
+- C++, Java, Fortran, Python, Javascript, PHP
+- React and Vue
+- Node, Next.js, Laravel
+- Facebook and Google's APIs
 
 <!---
 Tomas-Li/Tomas-Li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
